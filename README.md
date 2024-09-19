@@ -1,0 +1,1 @@
+Este projeto é uma aplicação Java para gerenciamento de dados de séries e tradução de textos usando a API da OpenAI. A aplicação permite a criação e gerenciamento de séries, incluindo informações sobre episódios e categorias, e oferece funcionalidade de tradução para vários idiomas.
